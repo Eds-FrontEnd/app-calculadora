@@ -37,12 +37,10 @@ npm run dev
 ```
 Isso vai iniciar o projeto, e você poderá acessá-lo no navegador, geralmente em http://localhost:3000 (ou outra porta, caso configurada).
 
+## Bibliotecas e comando de Instalação:
+
 ### 4. @biomejs/biome
 - Função: Ferramenta para formatação de código e linting, ajudando a manter o código consistente e limpo.
-
-# Bibliotecas:
-## Comando de Instalação:
-
 - Para instalar o Biome, rode o seguinte comando:
 ```bash
 npm install @biomejs/biome -D
