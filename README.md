@@ -19,7 +19,7 @@ Antes de começar, certifique-se de ter o **Node.js** e o **npm** instalados em 
 Baixe ou clone o repositório do GitHub. Depois, navegue até a pasta do projeto:
 
 ```bash
-cd app-calculadora
+cd app-calculadora-main
 ```
 
 ### 2. Instalar as dependências
